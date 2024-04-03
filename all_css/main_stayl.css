@@ -141,10 +141,7 @@ a{
 /*------ end footer------- */
 /********** Medium devices only **********/
 @media (min-width: 1200px) {
-     .jumbotron {
-      background: url('../image/jumbotron_1200.jpg') no-repeat;
-      height: 675px;
-    }
+    
   }
 @media (min-width:992px) and (max-width:1199px){
     .jumbotron{
