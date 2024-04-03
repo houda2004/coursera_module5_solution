@@ -99,7 +99,7 @@ a{
     background: url(../image/specials-tile.jpg) no-repeat;
     background-position: center;
 }
-#menu-photo , #Specials-photo, #map{
+#menu-photo , #Specials-photo, #map,.category-tile{
     height: 250px;
     width: 100%;
    /* margin-bottom: 15px;*/
