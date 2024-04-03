@@ -106,7 +106,7 @@ a{
     position: relative;
     overflow: hidden;
 }
- #menu-photo span, #Specials-photo span,#map span{
+ #menu-photo span, #Specials-photo span,#map span ,.category-tile span{
   padding: 5px;
   bottom: 0;
   border-radius: 10px  10px 0 0 ;
